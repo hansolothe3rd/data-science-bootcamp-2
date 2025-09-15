@@ -29,7 +29,12 @@ The focus here is building on the foundations with deeper dives into **data anal
 
 
 ### Day 14
-- (To be added…)
+- Practiced advanced visualizations with Titanic dataset
+- KDE plots for smooth distributions
+- Correlation heatmaps for numeric variables
+- Scatterplots with regression lines
+- Subplots for side-by-side comparisons
+
 
 ### Day 15
 - (To be added…)
