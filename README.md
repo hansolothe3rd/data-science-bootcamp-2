@@ -1,6 +1,6 @@
 # Data Science Bootcamp – Days 11–20
 
-This repository contains the second stage of my **self-guided Data Science Bootcamp**, continuing from [Days 1–10](https://github.com/your-username/bootcamp-days-1-10).  
+This repository contains the second stage of my **self-guided Data Science Bootcamp**, continuing from [Days 1–10]((https://github.com/hansolothe3rd/Refresh.git)).  
 The focus here is building on the foundations with deeper dives into **data analysis, visualization, and real-world mini projects**.
 
 ---
@@ -43,7 +43,7 @@ The focus here is building on the foundations with deeper dives into **data anal
 ---
 
 ## 🔗 Related Repos
-- [Days 1–10 Bootcamp](https://github.com/your-username/bootcamp-days-1-10)
+- [Days 1–10 Bootcamp][(https://github.com/hansolothe3rd/Refresh.git)]
 
 ---
 
