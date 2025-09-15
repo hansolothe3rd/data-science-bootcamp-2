@@ -14,7 +14,12 @@ The focus here is building on the foundations with deeper dives into **data anal
 - Planned roadmap for upcoming days
 
 ### Day 12
-- (To be added…)
+- Practiced data cleaning with Titanic dataset
+- Handled missing values (drop vs fill strategies)
+- Detected and reviewed outliers
+- Cleaned categorical columns (embarked, sex)
+- Saved cleaned dataset for future use
+
 
 ### Day 13
 - (To be added…)
