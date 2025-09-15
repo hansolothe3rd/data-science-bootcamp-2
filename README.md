@@ -8,9 +8,10 @@ The focus here is building on the foundations with deeper dives into **data anal
 ## 📅 Daily Progress
 
 ### Day 11
-- Repository setup for Days 11–20
-- Review of Python fundamentals and Git workflow
-- Planning for next 10 days
+- New repo setup for Days 11–20
+- Reviewed Python and pandas basics
+- Practiced with Iris dataset (exploration + visualization)
+- Planned roadmap for upcoming days
 
 ### Day 12
 - (To be added…)
