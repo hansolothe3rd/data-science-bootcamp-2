@@ -22,7 +22,11 @@ The focus here is building on the foundations with deeper dives into **data anal
 
 
 ### Day 13
-- (To be added…)
+- Created new features (family size, age group bins)
+- Encoded categorical features (manual + automated with OneHotEncoder)
+- Used `SimpleImputer` for missing value handling
+- Scaled numeric features with `StandardScaler`
+
 
 ### Day 14
 - (To be added…)
