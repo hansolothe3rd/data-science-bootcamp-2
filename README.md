@@ -36,8 +36,13 @@ The focus here is building on the foundations with deeper dives into **data anal
 - Subplots for side-by-side comparisons
 
 
-### Day 15
-- (To be added…)
+### Day 15 – Mini Project 2: Wine Quality EDA
+- Loaded new Wine Quality dataset (red wine)
+- Cleaned missing values and duplicates
+- Explored descriptive statistics
+- Visualized key relationships (histograms, boxplots, scatterplots, heatmaps)
+- Summarized insights on features affecting wine quality
+
 
 ### Day 16
 - (To be added…)
