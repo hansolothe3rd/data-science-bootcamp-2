@@ -44,8 +44,12 @@ The focus here is building on the foundations with deeper dives into **data anal
 - Summarized insights on features affecting wine quality
 
 
-### Day 16
-- (To be added…)
+### Day 16 – Intro to Statistics
+- Reviewed descriptive statistics (mean, median, std)
+- Explored probability distributions (normal and uniform)
+- Demonstrated Central Limit Theorem with sampling
+- Visualized distributions with histograms and KDE plots
+
 
 ### Day 17
 - (To be added…)
