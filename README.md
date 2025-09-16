@@ -51,8 +51,15 @@ The focus here is building on the foundations with deeper dives into **data anal
 - Visualized distributions with histograms and KDE plots
 
 
-### Day 17
-- (To be added…)
+### Day 17 — Hypothesis Testing
+- Learned hypothesis testing framework (H₀, H₁, errors, alpha).
+- Performed:
+  - One-sample t-test
+  - Two-sample t-test
+  - Chi-Square test
+- Applied tests with `scipy.stats` on real and categorical data.
+- Prepared for ANOVA & Regression (Day 18).
+
 
 ### Day 18
 - (To be added…)
