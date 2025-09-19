@@ -62,7 +62,12 @@ The focus here is building on the foundations with deeper dives into **data anal
 
 
 ### Day 18
-- (To be added…)
+- Explored linear relationships with scatter plots.
+- Fitted a simple linear regression model (`alcohol ~ density`).
+- Visualized regression line and predictions.
+- Evaluated model performance with MAE, MSE, RMSE, and R².
+- Prepared for multiple regression (Day 19).
+
 
 ### Day 19
 - (To be added…)
