@@ -87,8 +87,22 @@ The focus here is building on the foundations with deeper dives into **data anal
 - Built a foundation for selecting features in future regression models.
 
 
-### Day 20
-- (To be added…)
+## Day 20 – Feature Scaling & Mini Project
+
+**Concepts Covered:**
+- Why scaling features is necessary in ML.
+- Normalization vs. Standardization.
+- Impact of scaling on model performance.
+
+**Practice:**
+- Applied MinMaxScaler and StandardScaler to the wine dataset.
+- Created new scaled datasets for modeling.
+
+**Mini Project: k-NN Wine Quality Prediction**
+- Trained k-NN classifier on raw vs. standardized data.
+- Found that scaling significantly improved accuracy.
+- Demonstrated importance of preprocessing before ML.
+
 
 ---
 
