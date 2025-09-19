@@ -69,8 +69,23 @@ The focus here is building on the foundations with deeper dives into **data anal
 - Prepared for multiple regression (Day 19).
 
 
-### Day 19
-- (To be added…)
+## Day 19 – Correlation & Covariance
+
+**Concepts Covered:**
+- Covariance vs correlation.
+- Using correlation matrices for feature selection.
+- Interpreting positive/negative correlations.
+
+**Practice:**
+- Computed correlation matrix of the `wine_clean.csv` dataset.
+- Identified top features correlated with wine quality.
+- Visualized results with a heatmap.
+
+**Mini Project: Wine Quality Correlation Study**
+- Explored which features most influence wine quality.
+- Found that `alcohol` positively correlates with quality, while `volatile_acidity` negatively correlates.
+- Built a foundation for selecting features in future regression models.
+
 
 ### Day 20
 - (To be added…)
